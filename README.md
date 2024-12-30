@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=7851F7&center=true&width=435&lines=Hello!"/></a>
 </p>
 
+[![Cat!](https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg)]()
+
 ----
 
 <p align="center">
