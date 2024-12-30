@@ -16,16 +16,12 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,blender,godot,unity,vscode,inkscape&perline=3" />
-        </a>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,blender,godot,unity,vscode,inkscape&perline=3" />
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,godot&perline=3" />
-        </a>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,godot&perline=3" />
       </p>
     </td>
   </tr>
