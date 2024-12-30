@@ -4,12 +4,14 @@
 
 ----
 
-<img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/0191d666-3690-7dda-a7dd-3fd920f0856c.json' />
+<p align="center">
+  <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/0191d666-3690-7dda-a7dd-3fd920f0856c.json' />
+</p>
 
 <table>
   <tr>
-    <th>Stuff I use</th>
-    <th>Programming Languages I know</th>
+    <th width="1000px">Stuff I use</th>
+    <th width="1000px">Programming Languages I know</th>
   </tr>
   <tr>
     <td>
