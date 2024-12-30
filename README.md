@@ -22,7 +22,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java&perline=3" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,godot&perline=3" />
         </a>
       </p>
     </td>
