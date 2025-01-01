@@ -11,7 +11,7 @@
 <table>
   <tr>
     <th width="1000px">Stuff I use</th>
-    <th width="1000px">Programming Languages I know</th>
+    <th width="1000px">Programming Languages I use</th>
   </tr>
   <tr>
     <td>
