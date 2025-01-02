@@ -30,3 +30,5 @@
     </td>
   </tr>
 </table>
+
+I promise no support for any of my repositories.
