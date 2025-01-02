@@ -31,4 +31,4 @@
   </tr>
 </table>
 
-I promise no support for any of my repositories.
+I do not promise any support for any of my repositories.
