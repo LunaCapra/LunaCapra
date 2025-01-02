@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=7851F7&center=true&width=435&lines=Hello!"/></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ff63ebe-ae4d-4941-810c-5f373551f7b7"/>
+</p>
+
 ----
 
 <p align="center">
