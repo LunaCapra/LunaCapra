@@ -25,7 +25,7 @@
     </td>
     <td>
       <p align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,godot&perline=3" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,python,godot&perline=3" />
       </p>
     </td>
   </tr>
